@@ -1,0 +1,63 @@
+*{
+    margin: 0 ;
+    font-family: 'Lato', sans-serif;   
+}
+ html{
+    width: 50%;
+    margin: 0 auto;
+} 
+.header .logo-head{
+    width: 70px;
+    height: 70px;
+}
+.header .row li{
+    margin-left: -40px;
+}
+.title-head{
+    background-color: rgb(247, 55, 21);
+    color: white;
+    margin-top: 15px;
+}
+.row{
+    list-style: none;
+    margin: 15px 0px;
+}
+.info{
+    background-color: rgb(153, 40, 32);
+    color: rgb(235, 230, 230);
+    margin: 0;
+}
+.info .title-about{  
+    text-align: center;
+    background-color: rgb(153, 40, 32);
+    color: white;
+    margin-bottom: 20px;
+}
+.info p span{
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.develope{
+    margin-top: 10px;
+    background-color: rgb(153, 40, 32);
+    color:  rgb(235, 230, 230);
+}
+.develope .tilte-develope{
+    text-align: center;
+    text-transform: uppercase;
+}
+.develope ul {
+    margin-left: -10px;
+    font-size: 14px;
+}
+.pricelist{
+    width: 70%;
+    margin: 0 auto;
+    
+}
+.pricelist h3{
+   text-align: center;
+   margin: 10px;
+}
